@@ -40,9 +40,9 @@ docker build -t nhne .
 
 
 
-### Exec into container and run 'Basic usage' command
+### Exec into the container and run the 'Basic Usage' command
 
-Exec into container to run commands:
+Exec into the container to run commands:
 
 ```
 docker run -it nhne --name nhne /bin/bash
